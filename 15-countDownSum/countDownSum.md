@@ -33,7 +33,7 @@ THEN: We output 55
 
 ```js
 class MySolution {
-  countDownSum(num) {
+  countDownSum(num) { 
     // Insert code here;
   }
 }
